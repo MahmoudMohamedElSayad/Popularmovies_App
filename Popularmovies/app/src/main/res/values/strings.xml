@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popularmovies</string>
+    <string name="Date">Release Date:</string>
+    <string name="Rate">Rate:</string>
+    <string name="Trailers">Trailers :</string>
+    <string name="Reviews">Reviews :</string>
+    <string name="Author">Author :</string>
+    <string name="content">content :</string>
+    <string name="BtnRev">Show_Reviews</string>
+    <string name="Trailer">Trailer</string>
+</resources>
